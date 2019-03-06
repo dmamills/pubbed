@@ -1,0 +1,19 @@
+{
+  "name": "pub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ssb-backlinks": "^0.7.3",
+    "ssb-config": "^3.2.5",
+    "ssb-gossip": "^1.0.5",
+    "ssb-invite": "^2.0.3",
+    "ssb-replicate": "^1.1.0",
+    "ssb-server": "^14.1.6"
+  }
+}
