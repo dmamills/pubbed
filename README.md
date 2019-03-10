@@ -1,6 +1,6 @@
 # pubbed
 
-a very basic ssb server used for a pub. runs [ssb.yomills.com](http://ssb.yomills.com]
+a very basic ssb server used for a pub. runs [ssb.yomills.com](http://ssb.yomills.com)
 
 ## usage
 
